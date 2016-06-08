@@ -66,7 +66,9 @@ Then, it was updated to the 7.0 version by Julius Network Solutions And SIAT TUN
         "smstemplate_view.xml"
     ],
     "active": False,
-    "installable": True,
+    "installable": False,
+    'application' : True,
+    'auto_install': False,
 }
 
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
