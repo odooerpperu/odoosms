@@ -66,7 +66,7 @@ Then, it was updated to the 7.0 version by Julius Network Solutions And SIAT TUN
         "smstemplate_view.xml"
     ],
     "active": False,
-    "installable": False,
+    "installable": True,
     'application' : True,
     'auto_install': False,
 }
